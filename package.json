@@ -1,0 +1,15 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "homepage": "https://github.com/NSarg7/Budgety",
+  "scripts": {
+    "deploy": "gh-pages --dist dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
